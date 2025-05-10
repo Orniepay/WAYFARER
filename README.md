@@ -1,15 +1,15 @@
 <h1 align="center">WAYFARER</h1>
 
 <h3>Project Member Names</h2> 
-* Ornie Payer
+- Ornie Payer
 <br>
-* Eric Zhang
+-Eric Zhang
 <br>
-* Tien Minh Tran
+-Tien Minh Tran
 <br>
-* Kenny Pang
+-Kenny Pang
 <br>
-* Naser Shabbir
+-Naser Shabbir
 <br>
 
 
