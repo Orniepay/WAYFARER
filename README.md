@@ -1,5 +1,5 @@
 <h1 align="center">WAYFARER</h1>
-
+<img src="https://github.com/Orniepay/WAYFARER/blob/main/images/Wayfarer.gif"  alt="UB Commons Food Web App"/>
 
 
 <br><br>
