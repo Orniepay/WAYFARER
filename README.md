@@ -1,5 +1,8 @@
 <h1 align="center">WAYFARER</h1>
 
+
+
+<br><br>
 ### Project Member Names
 - Ornie Payer
 - Eric Zhang
