@@ -1,16 +1,11 @@
 <h1 align="center">WAYFARER</h1>
 
-<h3>Project Member Names</h2> 
+### Project Member Names
 - Ornie Payer
-<br>
--Eric Zhang
-<br>
--Tien Minh Tran
-<br>
--Kenny Pang
-<br>
--Naser Shabbir
-<br>
+- Eric Zhang
+- Tien Minh Tran
+- Kenny Pang
+- Naser Shabbir
 
 
 </details> <details> <summary> <h3> How to Locally Run: </h2></summary>
