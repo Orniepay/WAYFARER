@@ -1,6 +1,6 @@
-# WAYFARER
+<h1 align="center">WAYFARER</h1>
 
-<h2>Project Member Names</h2> 
+<h3>Project Member Names</h2> 
 - Ornie Payer<br>
 - Eric Zhang<br>
 - Tien Minh Tran<br>
